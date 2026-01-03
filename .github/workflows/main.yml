@@ -10,5 +10,5 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run feed Generator
-        uses: sandali.js/podcast-generator@main
+        uses: s-sandali/podcast-generator@main
        
